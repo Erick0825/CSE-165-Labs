@@ -1,0 +1,10 @@
+input 1
+answer 3
+input 2
+answer 12
+input 3
+answer 28
+input 4
+answer 50
+input 5
+answer 78

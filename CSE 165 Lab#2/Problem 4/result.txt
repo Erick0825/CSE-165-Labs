@@ -1,0 +1,2 @@
+Original sentence : My name is Erick, I am a CSE Major.
+Duplicate sentence: My name is Erick, I am a CSE Major.

@@ -1,0 +1,8 @@
+Name: Toni Kroos
+Position: CM    
+ID: 8
+
+
+Name: Marco Reus
+Position: CAM   
+ID: 11

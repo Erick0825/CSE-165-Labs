@@ -1,0 +1,13 @@
+0       0x7fffe8fe4db0
+0       0x7fffe8fe4db4
+0       0x7fffe8fe4db8
+0       0x7fffe8fe4dbc
+0       0x7fffe8fe4dc0
+0       0x7fffe8fe4dc4
+
+-1      0x7fffe8fe4db0
+-1      0x7fffe8fe4db4
+0       0x7fffe8fe4db8
+0       0x7fffe8fe4dbc
+0       0x7fffe8fe4dc0
+0       0x7fffe8fe4dc4
